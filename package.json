@@ -1,0 +1,1 @@
+{"name":"task-relay-local","version":"0.1.0","private":true,"type":"module","description":"A local sequential task queue for Codex CLI and Claude Code","bin":{"task-relay":"src/cli.js"},"scripts":{"start":"node src/cli.js","test":"node --test","build":"node scripts/build.js","demo":"node scripts/serve-demo.js"},"engines":{"node":">=22"},"license":"MIT"}
